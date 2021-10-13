@@ -1,0 +1,18 @@
+
+"""
+Created on Wed Oct  6 19:15:51 2021
+
+@author: zakria
+"""
+student={
+    'name':'Zakria Rehman',
+    'session': 2018,
+    'semester': 7,
+    'reg_Number':"18-SE-30",
+    }
+
+subjects=(
+    'SPM','ST', 'ML', 'VL', 'HRM'
+    )
+print(type(subjects))
+
